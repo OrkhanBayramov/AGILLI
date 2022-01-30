@@ -3,10 +3,6 @@
 
 By Orkhan Bayramov
 
-email: bayorkhan@gmail.com
-
-phone: +(994)55-224-75-58
-
 ARDUINO MEGA & NEXTION 7 INCH LCD WITH TOUCH SCREEN
 
 sketch for 5 sector GreenHouse
